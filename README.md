@@ -1,2 +1,2 @@
-## Hi there 👋
-## Welcome to my GitHub!!
+## Hi There 👋
+### Welcome to my GitHub!!
